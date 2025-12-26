@@ -30,6 +30,7 @@
 | M2341E1 | Xiaomi Buds 5 | 10007/20609 | ![case](./assets/n75cn_case.png) |  |
 | M2437E1 | Xiaomi Buds 5 Pro | 10007/20653 | ![case](./assets/o71btc_case.png) | ![buds](./assets/o71btc_buds.png) |
 | M2438E1 | Xiaomi Buds 5 Pro Wi-Fi | 10007/20651 | ![case](./assets/o71c_case.png) | ![buds](./assets/o71c_buds.png) |
+| M2540E1 | Xiaomi Buds 6 | 10007/20714 | ![case](./assets/p75_case.png) |  |
 | M2319E1 | Xiaomi 开放式耳机 | 10007/20607 | ![case](./assets/n74ac_case.png) |  |
 | M2503E1 | Xiaomi 开放式耳机 Pro | 10007/20664 | ![case](./assets/o74cn_case.png) |  |
 | M2111E1 | Xiaomi 真无线降噪耳机 3 迪士尼100周年限定版 | 10007/20582 | ![case](./assets/k75mcn_case.png) | ![buds](./assets/k75mcn_buds.png) |
