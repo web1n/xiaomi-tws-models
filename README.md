@@ -5,6 +5,7 @@
 | M2430E1 | REDMI Buds 6 Pro | 10007/20637 | ![case](./assets/o76cn_case.png) | ![buds](./assets/o76cn_buds.png) |
 | M2431E1 | REDMI Buds 6 Pro 电竞版 | 10007/20655 | ![case](./assets/o76gcn_case.png) | ![buds](./assets/o76gcn_buds.png) |
 | M2455E1 | REDMI Buds 7S | 10007/20665 | ![case](./assets/o77sc_case.png) |  |
+| M2535E1 | REDMI Buds 8 Pro | 10007/20707 | ![case](./assets/p76cn_case.png) | ![buds](./assets/p76cn_buds.png) |
 | M2411E1 | REDMI Buds SE | 10007/20634 | ![case](./assets/n79bc_case.png) |  |
 | TWSEJ01ZM | Redmi AirDots 3 Pro | 23117/59907 | ![case](./assets/k76cn_case.png) | ![buds](./assets/k76cn_buds.png) |
 | TWSEJ01ZM | Redmi AirDots 3 Pro 原神版 | 23117/59917 | ![case](./assets/k76s_case.png) | ![buds](./assets/k76s_buds.png) |
