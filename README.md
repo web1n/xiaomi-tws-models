@@ -39,4 +39,5 @@
 | M2319E1 | Xiaomi 开放式耳机 | 10007/20607 | ![case](./assets/n74ac_case.png) |  |
 | M2503E1 | Xiaomi 开放式耳机 Pro | 10007/20664 | ![case](./assets/o74cn_case.png) |  |
 | M2111E1 | Xiaomi 真无线降噪耳机 3 迪士尼100周年限定版 | 10007/20582 | ![case](./assets/k75mcn_case.png) | ![buds](./assets/k75mcn_buds.png) |
+| M2529E1 | Xiaomi 耳夹式耳机 | 10007/20699 | ![case](./assets/q74ucn_case.png) |  |
 | M2447E1 | Xiaomi 骨传导耳机2 | 10007/20661 | ![case](./assets/o73cn_case.png) |  |
