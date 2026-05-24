@@ -25,7 +25,8 @@
 | M2344E1 | Redmi Buds 6 活力版 | 10007/20616 | ![case](./assets/n79cn_case.png) |  |
 | M2349E1 | Redmi Buds 6 青春版 | 10007/20618 | ![case](./assets/n79acn_case.png) |  |
 | M2403E1 | Redmi Buds 6S | 10007/20629 | ![case](./assets/n77scn_case.png) |  |
-| M2419E1 | Xiaomi Air4 SE | 10007/20636 | ![case](./assets/n79scn_case.png) |  |
+| M2419E1 | Xiaomi Air 4 SE | 10007/20636 | ![case](./assets/n79scn_case.png) |  |
+| M2610E1 | Xiaomi Air 5 | 10007/20755 | ![case](./assets/p76sc_case.png) | ![buds](./assets/p76sc_buds.png) |
 | M2132E1 | Xiaomi Buds 3 | 10007/20518 | ![case](./assets/k75_case.png) | ![buds](./assets/k75_buds.png) |
 | M2132E1 | Xiaomi Buds 3 Pro | 10007/20517 | ![case](./assets/k73cn_case.png) | ![buds](./assets/k73cn_buds.png) |
 | M2111E1 | Xiaomi Buds 3 Star Wars | 10007/20574 | ![case](./assets/k75sc_case.png) | ![buds](./assets/k75sc_buds.png) |
