@@ -5,6 +5,7 @@
 | M2430E1 | REDMI Buds 6 Pro | 10007/20637 | ![case](./assets/o76cn_case.png) | ![buds](./assets/o76cn_buds.png) |
 | M2431E1 | REDMI Buds 6 Pro 电竞版 | 10007/20655 | ![case](./assets/o76gcn_case.png) | ![buds](./assets/o76gcn_buds.png) |
 | M2455E1 | REDMI Buds 7S | 10007/20665 | ![case](./assets/o77sc_case.png) |  |
+| M2544E1 | REDMI Buds 8 | 10007/20722 | ![case](./assets/p77c_case.png) | ![buds](./assets/p77c_buds.png) |
 | M2535E1 | REDMI Buds 8 Pro | 10007/20707 | ![case](./assets/p76cn_case.png) | ![buds](./assets/p76cn_buds.png) |
 | M2537E1 | REDMI Buds 8 活力版 | 10007/20705 | ![case](./assets/p79c_case.png) |  |
 | M2539E1 | REDMI Buds 8 青春版 | 10007/20718 | ![case](./assets/p79ac_case.png) |  |
