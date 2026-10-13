@@ -9,6 +9,7 @@
 | M2535E1 | REDMI Buds 8 Pro | 10007/20707 | ![case](./assets/p76cn_case.png) | ![buds](./assets/p76cn_buds.png) |
 | M2537E1 | REDMI Buds 8 活力版 | 10007/20705 | ![case](./assets/p79c_case.png) |  |
 | M2539E1 | REDMI Buds 8 青春版 | 10007/20718 | ![case](./assets/p79ac_case.png) |  |
+| M2545E1 | REDMI Buds 8S | 10007/20764 | ![case](./assets/q77s_case.png) |  |
 | M2411E1 | REDMI Buds SE | 10007/20634 | ![case](./assets/n79bc_case.png) |  |
 | M2546E1 | REDMI 头戴降噪耳机 | 10007/20731 | ![case](./assets/o70cc_case.png) |  |
 | TWSEJ01ZM | Redmi AirDots 3 Pro | 23117/59907 | ![case](./assets/k76cn_case.png) | ![buds](./assets/k76cn_buds.png) |
